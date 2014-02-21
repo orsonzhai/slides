@@ -30,6 +30,25 @@
 - 可访问并获取 Free to get and machine-readable
 - 可重用和重发布 Re-use, Re-distribute
 - 使用无限制 No usage limitation
-- 来自政府或私有贡献 from government or private contribution
 
 -----
+
+# What Types of Data?
+
+![data types from OKF](images/data-types.png)
+
+-----
+
+# Where to find Open Data?
+
+- from government
+- private contribution
+
+-----
+
+# The Open Data Resource from Beijing Government 
+
+- [www.bjdata.gov.cn](http://www.bjdata.gov.cn/)
+- [www.beijingmap.gov.cn/API/](http://www.beijingmap.gov.cn/API/) 
+
+
