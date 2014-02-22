@@ -50,8 +50,36 @@
 
 - [www.bjdata.gov.cn](http://www.bjdata.gov.cn/)
 - [www.beijingmap.gov.cn/API/](http://www.beijingmap.gov.cn/API/) 
+- [www.datashanghai.gov.cn](http://www.datashanghai.gov.cn/)
+- [www.stats.gov.cn](http://www.stats.gov.cn/tjsj/)
 
 -----
 
+# Census
 
+- [cn-city.census.okfn.org](http://cn-city.census.okfn.org/)
 
+-----
+
+# OpenData China
+
+- [opendatachina.github.io](http://opendatachina.github.io/)
+
+-----
+
+# Agenda
+* 10:00AM  introduce open data day (Orson Zhai)
+* 10:10AM  introduce open data resource from china government (Orson Zhai)
+* 10:20AM  other speech if any
+* 10:30AM  brain storm and divide people into several teams with different goals
+* 11:00AM  coding
+* 15:00PM  Hangout with Hongkong, Twain
+* 16:00PM  demo or sharing
+* 17:00PM  further discussion ( is it necessary to setup an community and commercial application)
+* 18:00PM  the end 
+
+-----
+
+# Code For Beijing
+
+- local community for open data @ beijing
